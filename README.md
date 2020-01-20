@@ -12,9 +12,9 @@ with Faster R-CNN based object detection technique.
 * python3 detect_on_image.py to detect anomaly on image
 * python3 detect_on_video.py to detect anomaly on video
 ## Input and Output
-    <p>
-    <img width=360 height=240 src="doc_data/086_input.tif" alt="">
-    </p>
-    <p>
-    <img width=360 height=240 src="doc_data/086_output.tif" alt="">
-    </p>
+<p>
+<img width=360 height=240 src="doc_data/086_input.jpg" alt="">
+</p>
+<p>
+<img width=360 height=240 src="doc_data/086_output.jpg" alt="">
+</p>
